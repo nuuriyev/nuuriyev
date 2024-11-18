@@ -17,4 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuuriyev&show_icons=true&locale=en" alt="nuuriyev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuuriyev&" alt="nuuriyev" /></p>
-![snake gif](https://github.com/CagatayAkkas/CagatayAkkas/blob/output/github-contribution-grid-snake.gif)
+
